@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aLle/sQfFQsPCGDPTs9di0f9MS5dlfqNTyWcUiwpXO8ViFuzb+bsD0mU8G8i/XiWXPFtkCyo9fR2o09sY66ZQA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lagau\\OneDrive\\Documents\\Git\\C#\\Delegate_Examples\\AdderSubtracter\\AdderSubtracter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lagau\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
