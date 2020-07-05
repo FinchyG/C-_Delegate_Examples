@@ -1,0 +1,13 @@
+C:\Users\lagau\OneDrive\Documents\Git\C#\Delegate_Examples\DelegateDemo\bin\Debug\netcoreapp3.1\DelegateDemo.exe
+C:\Users\lagau\OneDrive\Documents\Git\C#\Delegate_Examples\DelegateDemo\bin\Debug\netcoreapp3.1\DelegateDemo.deps.json
+C:\Users\lagau\OneDrive\Documents\Git\C#\Delegate_Examples\DelegateDemo\bin\Debug\netcoreapp3.1\DelegateDemo.runtimeconfig.json
+C:\Users\lagau\OneDrive\Documents\Git\C#\Delegate_Examples\DelegateDemo\bin\Debug\netcoreapp3.1\DelegateDemo.runtimeconfig.dev.json
+C:\Users\lagau\OneDrive\Documents\Git\C#\Delegate_Examples\DelegateDemo\bin\Debug\netcoreapp3.1\DelegateDemo.dll
+C:\Users\lagau\OneDrive\Documents\Git\C#\Delegate_Examples\DelegateDemo\bin\Debug\netcoreapp3.1\DelegateDemo.pdb
+C:\Users\lagau\OneDrive\Documents\Git\C#\Delegate_Examples\DelegateDemo\obj\Debug\netcoreapp3.1\DelegateDemo.csprojAssemblyReference.cache
+C:\Users\lagau\OneDrive\Documents\Git\C#\Delegate_Examples\DelegateDemo\obj\Debug\netcoreapp3.1\DelegateDemo.AssemblyInfoInputs.cache
+C:\Users\lagau\OneDrive\Documents\Git\C#\Delegate_Examples\DelegateDemo\obj\Debug\netcoreapp3.1\DelegateDemo.AssemblyInfo.cs
+C:\Users\lagau\OneDrive\Documents\Git\C#\Delegate_Examples\DelegateDemo\obj\Debug\netcoreapp3.1\DelegateDemo.csproj.CoreCompileInputs.cache
+C:\Users\lagau\OneDrive\Documents\Git\C#\Delegate_Examples\DelegateDemo\obj\Debug\netcoreapp3.1\DelegateDemo.dll
+C:\Users\lagau\OneDrive\Documents\Git\C#\Delegate_Examples\DelegateDemo\obj\Debug\netcoreapp3.1\DelegateDemo.pdb
+C:\Users\lagau\OneDrive\Documents\Git\C#\Delegate_Examples\DelegateDemo\obj\Debug\netcoreapp3.1\DelegateDemo.genruntimeconfig.cache
