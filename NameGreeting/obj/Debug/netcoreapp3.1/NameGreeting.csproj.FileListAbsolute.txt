@@ -1,0 +1,13 @@
+C:\Users\lagau\OneDrive\Documents\Git\C#\Delegate_Examples\NameGreeting\bin\Debug\netcoreapp3.1\NameGreeting.exe
+C:\Users\lagau\OneDrive\Documents\Git\C#\Delegate_Examples\NameGreeting\bin\Debug\netcoreapp3.1\NameGreeting.deps.json
+C:\Users\lagau\OneDrive\Documents\Git\C#\Delegate_Examples\NameGreeting\bin\Debug\netcoreapp3.1\NameGreeting.runtimeconfig.json
+C:\Users\lagau\OneDrive\Documents\Git\C#\Delegate_Examples\NameGreeting\bin\Debug\netcoreapp3.1\NameGreeting.runtimeconfig.dev.json
+C:\Users\lagau\OneDrive\Documents\Git\C#\Delegate_Examples\NameGreeting\bin\Debug\netcoreapp3.1\NameGreeting.dll
+C:\Users\lagau\OneDrive\Documents\Git\C#\Delegate_Examples\NameGreeting\bin\Debug\netcoreapp3.1\NameGreeting.pdb
+C:\Users\lagau\OneDrive\Documents\Git\C#\Delegate_Examples\NameGreeting\obj\Debug\netcoreapp3.1\NameGreeting.csprojAssemblyReference.cache
+C:\Users\lagau\OneDrive\Documents\Git\C#\Delegate_Examples\NameGreeting\obj\Debug\netcoreapp3.1\NameGreeting.AssemblyInfoInputs.cache
+C:\Users\lagau\OneDrive\Documents\Git\C#\Delegate_Examples\NameGreeting\obj\Debug\netcoreapp3.1\NameGreeting.AssemblyInfo.cs
+C:\Users\lagau\OneDrive\Documents\Git\C#\Delegate_Examples\NameGreeting\obj\Debug\netcoreapp3.1\NameGreeting.csproj.CoreCompileInputs.cache
+C:\Users\lagau\OneDrive\Documents\Git\C#\Delegate_Examples\NameGreeting\obj\Debug\netcoreapp3.1\NameGreeting.dll
+C:\Users\lagau\OneDrive\Documents\Git\C#\Delegate_Examples\NameGreeting\obj\Debug\netcoreapp3.1\NameGreeting.pdb
+C:\Users\lagau\OneDrive\Documents\Git\C#\Delegate_Examples\NameGreeting\obj\Debug\netcoreapp3.1\NameGreeting.genruntimeconfig.cache
